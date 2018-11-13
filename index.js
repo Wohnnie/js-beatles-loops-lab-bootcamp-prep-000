@@ -14,8 +14,8 @@ function johnLennonFacts(newJLF){
     "He hated the sound of his own voice!!!"
   var newJLF = [];
   var i = 0
-  while (i < johnLennonFacts.length) {
-    newJLF.push(johnLennonFacts[i] + "!!!")
+  while (i < johnLennonFact.length) {
+    newJLF.push(johnLennonFact[i] + "!!!")
     i++;
   }
   return newJLF
